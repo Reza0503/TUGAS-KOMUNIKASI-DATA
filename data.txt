@@ -1,0 +1,21 @@
+Throughput:
+Jumlah Bytes : Time Span = Hasil Bytes
+11869593 : 93.559 = 126,8674633119208 b x 8
+		   = 1014 k
+
+Packet Loss :
+[((Paket dikirim - Paket diterima) : Paket dikirim) x 100]
+	= ((11919 - 11909):11919) x 100
+	= (10 : 11919) x 100
+	= 0,1
+
+Delay :
+Total Delay : 93,558601 s
+Rata-rata Delay : 0,007849534 s x 1000 = 7,849534 ms
+
+Jiter : 0,000236
+Total Jiter : 15,723286 s
+Rata-Rata Jiter : 1,98003E-08 x 1000 = 1.980,03 ms
+
+
+
